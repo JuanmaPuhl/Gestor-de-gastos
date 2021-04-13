@@ -1,0 +1,18 @@
+10/11/2017 Valor= $4511. Descripcion= Plata Actual.  
+10/11/2017 Valor= $700. Descripcion= Amoladora de papa.  
+10/11/2017 Valor= $-700. Descripcion= Plata que preste a mama de la amoladora.  
+14/11/2017 Valor= $20. Descripcion= Frutos rojos, prestamo mama.  
+14/11/2017 Valor= $-40. Descripcion= Kiosco: Alfajor+2xminas 0.5.  
+21/11/2017 Valor= $-100. Descripcion= Colectivo SUBE.  
+21/11/2017 Valor= $-500. Descripcion= Plata para mama.  
+21/11/2017 Valor= $-300. Descripcion= Frutos Rojos..  
+21/11/2017 Valor= $800. Descripcion= Retorno de plata de mama.  
+22/11/2017 Valor= $-25. Descripcion= COQUITA GG.  
+07/12/2017 Valor= $-240. Descripcion= Cooler+Pasta termica. 
+18/12/2017 Valor= $2000. Descripcion= Banco.  
+18/12/2017 Valor= $-4504. Descripcion= Placa de video.  
+24/12/2017 Valor= $-1200. Descripcion= Fuente+HDMI.
+07/01/2018 Valor= $-18. Descripcion= PAN. 
+07/01/2018 Valor= $300. Descripcion= Regalo abuelos?.2732018 Tipo= 1 Valor= $100 Descripcion= 5. 
+ 27/3/2018 Tipo= 1 Valor= $10 Descripcion= weeretg. 
+ 27/3/2018 Tipo= 1 Valor= $10 Descripcion= 1. 
